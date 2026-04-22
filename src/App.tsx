@@ -377,7 +377,7 @@ export default function App() {
           <p className="text-sm font-mono text-blue-600 font-bold">{ENCODING_KEY}</p>
         </div>
         <p className="text-xs font-bold text-slate-400">
-          &copy; {new Date().getFullYear()} Generator Kode Produksi • Ver 2.0
+          &copy; {new Date().getFullYear()} Codexa by Bfmi19048 • Ver 0.1.0
         </p>
       </footer>
     </div>
